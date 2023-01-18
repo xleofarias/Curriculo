@@ -1,0 +1,70 @@
+
+/* estilo do header*/
+
+header {
+    margin: 20px;
+    text-align: center
+}
+
+.meu-nome {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 20px 0 0 20px;
+}
+
+.vaga-estagio {
+    font-size: 28px;
+    margin: 20px 0 0 20px;
+    font-weight: bold;
+}
+
+.conteudo-iniciais{
+    padding: 1em 0 0 20px;
+    margin: 0 auto;
+}
+
+.github-linkedin {
+    padding: 1em 0 0 0;
+}
+
+.lista {
+    display: inline;
+}
+
+.imagem-linkedin {
+    width: 13px;
+}
+
+.imagem-github {
+    width: 14px;
+}
+
+.texto-perfil {
+    padding: 1em 0 0 20px;
+}
+
+/* Estilo do Main */
+
+main {
+    margin: 0 0 0 28.5%;
+    text-align: justify;
+}
+ main p {
+    font-size: 17px;
+    padding: 10px 0 0 0;
+ }
+
+ .formacao-texto {
+    font-size: 18px;
+ }
+
+.titulo-formacao {
+    font-size: 22px;
+    font-weight: bold;
+    margin: 15px 0 0 0;
+}
+
+.data-periodo {
+    margin: 15px 0 0 0;
+    font-style: italic;
+}
